@@ -6,4 +6,6 @@
 日日是好日，
 時時是好時。
 
+床前明月光
+
 ## Success modified from Local
